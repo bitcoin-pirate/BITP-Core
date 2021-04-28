@@ -1,7 +1,7 @@
 # Bitcoin Pirate Core v1.0.0
 
 
-# About Bitcoin Pirate (BITP)
+About Bitcoin Pirate (BITP)
 
  Algorithm: Script 
  Consensus: Prof of Work POW 

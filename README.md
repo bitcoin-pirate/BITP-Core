@@ -3,12 +3,12 @@
 
 # About Bitcoin Pirate (BITP)
 
-Algorithm: Script
-Consensus: Prof of Work POW
-rpcport: 8889
-port: 8890
-Block Reward: 50 BITP
-Block Time: 2 minutes
+Algorithm: Script 
+Consensus: Prof of Work POW 
+rpcport: 8889 
+port: 8890 
+Block Reward: 50 BITP 
+Block Time: 2 minutes 
 Max Coin Supply: 84.000.000.000
 
 

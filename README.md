@@ -3,7 +3,7 @@
 
 # About Bitcoin Pirate (BITP)
 
- Algorithm: Script 
+ <b>Algorithm: Script 
  
  Consensus: Prof of Work POW 
  
@@ -15,7 +15,7 @@
  
  Block Time: 2 minutes 
  
- Max Coin Supply: 84.000.000.000
+ Max Coin Supply: 84.000.000.000</b>
 
 
 # Links  

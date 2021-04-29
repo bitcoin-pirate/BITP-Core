@@ -3,7 +3,7 @@
 
 # About Bitcoin Pirate (BITP)
 
- <b>Algorithm: Script 
+ <b>Algorithm: Scrypt 
  
  Consensus: Prof of Work POW 
  
